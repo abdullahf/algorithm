@@ -1,0 +1,11 @@
+{
+  "name": "algorithm",
+  "version": "1.0.0",
+  "description": "1. Bubble Sort\r 2. Selection Sort\r 3. Quick Sort\r 4. Merge Sort\r 5. Insertion Sort\r 6. Recursive Bubble Sort\r 7. Recursive Insertion Sort\r 8. Heap Sort",
+  "main": "bubble-sort.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
