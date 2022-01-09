@@ -62,6 +62,6 @@ console.table(array);
 2. ...
 
 ## freeCodeCamp Algorithms
-1. Find the Symmetric Difference [x]
-2. Inventory Update [x]
-3. Implement Bubble Sort [x]
+1. [x] Find the Symmetric Difference
+2. [x] Inventory Update
+3. [x] Implement Bubble Sort
