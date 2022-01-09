@@ -89,3 +89,7 @@ console.table(array);
 ## Greedy algorithms
 1. Greedy Algorithms in Arrays
 2. ...
+
+## freeCodeCamp Algorithms
+1. Find the Symmetric Difference
+2. Inventory Update
